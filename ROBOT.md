@@ -1,4 +1,5 @@
 {
 "ModerationLevel": "communityManaged",
-"Facilitator": "jamiemax911"
+"Facilitator": "jamiemax911",
+"Category": "Signs" 
 }
